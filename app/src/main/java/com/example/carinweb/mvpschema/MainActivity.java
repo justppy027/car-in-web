@@ -1,8 +1,10 @@
-package com.example.carinweb;
+package com.example.carinweb.mvpschema;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.carinweb.R;
 
 public class MainActivity extends AppCompatActivity {
 
