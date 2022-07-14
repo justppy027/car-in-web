@@ -14,6 +14,9 @@
         android:theme="@style/Theme.Carinweb"
         tools:targetApi="31">
         <activity
+            android:name=".mvpschema.LoginActivity"
+            android:exported="false" />
+        <activity
             android:name=".mvpschema.MainActivity"
             android:exported="true">
             <intent-filter>
